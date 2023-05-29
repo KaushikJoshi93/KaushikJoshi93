@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src="https://as2.ftcdn.net/v2/jpg/03/41/09/93/1000_F_341099354_7HG7ktwBIaqj5ojwJ30ITbvWICxOsCLq.jpg" width="300">
+  <img src="https://th.bing.com/th/id/OIG.HeoiD1fatM61aFLatMtD?pid=ImgGn" width="300">
  
  <div id="badges">
     <a href="https://www.linkedin.com/in/kaushik-joshi-ab6617234/">
